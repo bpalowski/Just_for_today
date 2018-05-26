@@ -1,4 +1,28 @@
 /* Header*/
+body{
+  background-color: #FFFAF0;
+}
+
 .jumbotron{
   text-align: center;
+  background-color: #7FFFD4
+}
+img {
+  border-radius: 300px;
+  float:top-right;
+}
+
+.panel{
+  text-align: center;
+}
+.panel-heading{
+  background-color: lightblue;
+}
+
+.panel-body{
+  background: #DCDCDC;
+}
+
+ li{
+  list-style-type: none;
 }
