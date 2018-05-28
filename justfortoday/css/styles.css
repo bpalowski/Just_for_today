@@ -1,34 +1,58 @@
 /* Header*/
 body{
-  background-color: #FFFAF0;
+  background-color:tan ;
+  background-image: "img/Seattle_00.jpg";
+  background-repeat: ;
+  background-attachment: ;
 }
 .test_01{
   font-size: 5px;
 }
+
+
+
+
 .jumbotron{
+
   padding: 1px;
   margin-top: 23px;
   margin-bottom: 2rem;
+  color: #982424;
   text-align: center;
+
   background-color: transparent;
 }
+
 h2{
   font-size: 20px;
   background-color: transparent;
 }
 
 
+.second_row{
+  padding-top:106px;
+}
+
 
 .panel{
   text-align: center;
+}
+
+.panel panel-info{
+  margin-bottom: 83px;
 }
 .panel-heading{
   background-color: lightblue;
 }
 
 .panel-body{
+  background-image: url("img/coffee_002.jpeg");
   background: #DCDCDC;
 }
+#test{
+  background-image: url("img/coffee_002.jpeg");
+}
+
 h2.panel-info{
   background-color: transparent;
 }
