@@ -2,15 +2,22 @@
 body{
   background-color: #FFFAF0;
 }
-
+.test_01{
+  font-size: 5px;
+}
 .jumbotron{
+  padding: 1px;
+  margin-top: 23px;
+  margin-bottom: 2rem;
   text-align: center;
-  background-color: #7FFFD4
+  background-color: transparent;
 }
-img {
-  border-radius: 300px;
-  float:top-right;
+h2{
+  font-size: 20px;
+  background-color: transparent;
 }
+
+
 
 .panel{
   text-align: center;
@@ -21,6 +28,9 @@ img {
 
 .panel-body{
   background: #DCDCDC;
+}
+h2.panel-info{
+  background-color: transparent;
 }
 
  li{
