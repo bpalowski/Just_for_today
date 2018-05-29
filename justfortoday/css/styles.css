@@ -33,7 +33,10 @@ h2{
   padding-top:106px;
 }
 
+.third_row {
+padding-top: 141px;
 
+}
 .panel{
   text-align: center;
 }
@@ -45,12 +48,10 @@ h2{
   background-color: lightblue;
 }
 
-.panel-body{
-  background-image: url("img/coffee_002.jpeg");
-  background: #DCDCDC;
-}
-#test{
-  background-image: url("img/coffee_002.jpeg");
+img {
+  width: 340px;
+  height: 250px;
+
 }
 
 h2.panel-info{
